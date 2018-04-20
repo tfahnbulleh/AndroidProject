@@ -1,0 +1,190 @@
+DAC
+Digital-To-Analog Converter
+DAC
+Discretionary Access Control
+DAL
+Database Abstraction Layer
+DAO
+Data Access Object
+DAO
+Data Access Objects
+DAO
+Disk-At-Once
+DAP
+Directory Access Protocol
+DARPA
+Defense Advanced Research Projects Agency
+DAT
+Digital Audio Tape
+DB
+Database
+DBA
+Database Administrator
+DBCS
+Double Byte Character Set
+DBMS
+Database Management System
+DCC
+Direct Client-to-Client
+DCCP
+Datagram Congestion Control Protocol
+DCCA
+Debian Common Core Alliance
+DCL
+Data Control Language
+DCS
+Distributed Control System
+DCMI
+Dublin Core Metadata Initiative
+DCOM
+Distributed Component Object Model
+DD
+Double Density
+DDE
+Dynamic Data Exchange
+DDI
+DNS DHCP & IP Address management
+DDL
+Data Definition Language
+DDoS
+Distributed Denial of Service
+DDR
+Double Data Rate
+DEC
+Digital Equipment Corporation
+DES
+Data Encryption Standard
+dev
+development
+DFA
+Deterministic Finite Automaton
+DFD
+Data Flow Diagram
+DFS
+Depth-First Search
+DFS
+Distributed File System
+DGD
+Dworkin's Game Driver
+DHCP
+Dynamic Host Configuration Protocol
+DHTML
+Dynamic Hypertext Markup Language
+DIF
+Data Integrity Field
+DIMM
+Dual Inline Memory Module
+DIN
+Deutsches Institut f�r Normung
+DIP
+Dual In-line Package
+DISM
+Deployment Image and Service Management Tool
+DIVX
+Digital Video Express
+DKIM
+Domain Keys Identified Mail
+DL
+Download
+DLL
+Dynamic Link Library
+DLNA
+Digital Living Network Alliance
+DLP
+Data loss protection
+DMA
+Direct Memory Access
+DMCA
+Digital Millennium Copyright Act
+DMI
+Direct Media Interface
+DML
+Data Manipulation Language
+DML
+Definitive Media Library
+DMR
+Dennis M. Ritchie
+DMZ
+Demilitarized Zone
+DN
+Distinguished Name
+DND
+Drag-and-Drop
+DNS
+Domain Name System
+DOA
+Dead on Arrival
+DOCSIS
+Data Over Cable Service Interface Specification
+DOM
+Document Object Model
+DoS
+Denial of Service
+DOS
+Disk Operating System
+DP
+Dot Pitch
+DPC
+Deferred Procedure Call
+DPI
+Deep Packet Inspection
+DPI
+Dots Per Inch
+DPMI
+DOS Protected Mode Interface
+DPMS
+Display Power Management Signaling
+DR
+Disaster Recovery
+DRAM
+Dynamic Random-Access Memory
+DR
+DOS-Digital Research - Disk Operating System
+DRI
+Direct Rendering Infrastructure
+DRM
+Digital Rights Management
+DRM
+Direct Rendering Manager
+DSA
+Digital Signature Algorithm
+DSDL
+Document Schema Definition Languages
+DSDM
+Dynamic Systems Development Method
+DSL
+Digital Subscriber Line
+DSL
+Domain-Specific Language
+DSLAM
+Digital Subscriber Line Access Multiplexer
+DSN
+Database Source Name
+DSN
+Data Set Name
+DSP
+Digital Signal Processor
+DSSSL
+Document Style Semantics and Specification Language
+DTD
+Document Type Definition
+DTE
+Data Terminal Equipment or data transfer rate
+DTP
+Desktop Publishing
+DTR
+Data Terminal Ready or Data transfer rate
+DVD
+Digital Versatile Disc
+DVD
+R-DVD-Recordable
+DVD
+ROM-DVD-Read Only Memory
+DVD
+RW-DVD-Rewritable
+DVI
+Digital Visual Interface
+DVR
+Digital Video Recorder
+DW
+Data Warehouse

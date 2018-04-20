@@ -1,0 +1,170 @@
+IC
+nter-Integrated Circuit
+IS
+ntegrated Interchip Sound
+I18N
+nternationalization
+IANA
+nternet Assigned Numbers Authority
+iBCS
+ntel Binary Compatibility Standard
+IBM
+nternational Business Machines
+IC
+ntegrated Circuit
+ICANN
+nternet Corporation for Assigned Names and Numbers
+ICE
+n-Circuit Emulator
+ICE
+ntrusion Countermeasure Electronics
+ICH
+/O Controller Hub
+ICMP
+nternet Control Message Protocol
+ICP
+nternet Cache Protocol
+ICS
+nternet Connection Sharing
+ICT
+nformation and Communication Technology
+IDE
+ntegrated Development Environment
+IDE
+ntegrated Drive Electronics
+IDF
+ntermediate Distribution Frame
+IDF
+ntermediate Data Format
+IDL
+nteractive Data Language
+IDL
+nterface Definition Language
+IDS
+ntrusion Detection System
+IE
+nternet Explorer
+IEC
+nternational Electrotechnical Commission
+IEEE
+nstitute of Electrical and Electronics Engineers
+IETF
+nternet Engineering Task Force
+IFGICT
+nternational Federation of Global & Green ICT
+IFL
+ntegrated Facility for Linux
+IGMP
+nternet Group Management Protocol
+IGRP
+nterior Gateway Routing Protocol
+IHV
+ndependent Hardware Vendor
+IIOP
+nternet Inter-Orb Protocol
+IIS
+nternet Information Services
+IKE
+nternet Key Exchange
+IL
+ntermediate Language
+IM
+nstant Messaging
+IMAP
+nternet Message Access Protocol
+IME
+nput Method Editor
+INFOSEC
+nformation Systems Security
+I/O
+nput/output
+IoT
+nternet of Things
+IP
+ntellectual Property
+IP
+nternet Protocol
+IPAM
+P Address Management
+IPC
+nter-Process Communication
+IPL
+nitial Program Load
+IPMI
+ntelligent Platform Management Interface
+IPO
+nter Procedural Optimization
+IPP
+nternet Printing Protocol
+IPS
+n-Plane Switching
+IPS
+nstructions Per Second
+IPS
+ntrusion Prevention System
+IPsec
+nternet Protocol security
+IPTV
+nternet Protocol Television
+IPv4
+nternet Protocol version 4
+IPv6
+nternet Protocol version 6
+IPX
+nternetwork Packet Exchange
+IR
+ntermediate Representation
+IRC
+nternet Relay Chat
+IrDA
+nfrared Data Association
+IRI
+nternationalized Resource Identifier
+I/F
+nterface
+IRP
+/O Request Packet
+IRQ
+nterrupt Request
+IS
+nformation Systems
+IS
+IS-ntermediate System to Intermediate System
+ISA
+ndustry Standard Architecture
+ISA
+nstruction Set Architecture
+ISAM
+ndexed Sequential Access Method
+ISATAP
+ntra-Site Automatic Tunnel Addressing Protocol
+ISC
+nternet Storm Center
+iSCSI
+nternet Small Computer System Interface
+ISDN
+ntegrated Services Digital Network
+ISO
+nternational Organization for Standardization
+iSNS
+nternet Storage Name Service
+ISP
+nternet Service Provider
+ISPF
+nteractive System Productivity Facility
+ISR
+nterrupt Service Routine
+ISV
+ndependent Software Vendor
+IT
+nformation Technology
+ITIL
+nformation Technology Infrastructure Library
+ITL
+nterval Temporal Logic
+ITU
+nternational Telecommunication Union
+IVRS
+nteractive Voice Response System
+IVCR
+nteractive Virtual Classroom

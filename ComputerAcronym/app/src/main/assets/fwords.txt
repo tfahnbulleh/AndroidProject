@@ -1,0 +1,106 @@
+FAP
+FORTRAN Assembly Program
+FASM
+Flat ASseMbler
+FAT
+File Allocation Table
+FAQ
+Frequently Asked Questions
+FBDIMM
+Fully Buffered Dual Inline Memory Module
+FC
+AL-Fibre Channel Arbitrated Loop
+FCB
+File Control Block
+FCS
+Frame Check Sequence
+FDC
+Floppy Disk Controller
+FDS
+Fedora Directory Server
+FDD
+Frequency-Division Duplexing
+FDD
+Floppy Disk Drive
+FDDI
+Fiber Distributed Data Interface
+FDM
+Frequency-Division Multiplexing
+FDMA
+Frequency-Division Multiple Access
+FEC
+Forward Error Correction
+FEMB
+Front-End Motherboard
+FET
+Field Effect Transistor
+FHS
+Filesystem Hierarchy Standard
+FICON
+FIber CONnectivity
+FIFO
+First In First Out
+FIPS
+Federal Information Processing Standards
+FL
+Function Level
+FLAC
+Free Lossless Audio Codec
+FLOPS
+FLoating-Point Operations Per Second
+FLOSS
+Free/Libre/Open Source Software
+FMC
+ Fixed Mobile Convergence "Mobile UC or Unified Communications over Wireless"
+FMO
+Future Mode of Operation
+FOLDOC
+Free On-line Dictionary of Computing
+FOSDEM
+Free and Open source Software Developers' European Meeting
+FOSI
+Formatted Output Specification Instance
+FOSS
+Free and Open Source Software
+FP
+Function Programming
+FPGA
+Field Programmable Gate Array
+FPS
+Floating Point Systems
+FPU
+Floating Point Unit
+FRU
+Field Replaceable Unit
+FS
+File System
+FSB
+Front Side Bus
+fsck
+File System Check
+FSF
+Free Software Foundation
+FSM
+Finite State Machine
+FTTA
+Fiber To The Antenna
+FTTC
+Fiber To The Curb
+FTTH
+Fiber To The Home
+FTTP
+Fiber To The Premises
+FTP
+File Transfer Protocol
+FQDN
+Fully Qualified Domain Name
+FUD
+Fear Uncertainty Doubt
+FWS
+Folding White Space
+FXP
+File eXchange Protocol
+FYI
+For Your Information
+FVEK
+Full Volume Encryption Key

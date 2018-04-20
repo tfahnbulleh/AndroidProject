@@ -1,0 +1,204 @@
+CA
+Computer Accountancy
+CAD
+Computer-Aided Design
+CAE
+Computer-Aided Engineering
+CAID
+Computer-Aided Industrial Design
+CAI
+Computer-Aided Instruction
+CAM
+Computer-Aided Manufacturing
+CAPTCHA
+Completely Automated Public Turing Test to tell Computers and Humans Apart
+CAT
+Computer-Aided Translation
+CAQ
+Computer-Aided Quality Assurance
+CASE
+Computer-Aided Software Engineering
+cc
+C Compiler
+CD
+Compact Disc
+CDE
+Common Desktop Environment
+CDFS
+Compact Disk File System
+CDMA
+Code Division Multiple Access
+CDN
+Content Delivery Network
+CDP
+Cisco Discovery Protocol
+CDP
+Continuous Data Protection
+CD
+R-CD-Recordable
+CD
+ROM-CD Read-Only Memory
+CD
+RW-CD-Rewritable
+CDSA
+Common Data Security Architecture
+CERT
+Computer Emergency Response Team
+CES
+Consumer Electronics Show
+CF
+Compact Flash
+CFD
+Computational Fluid Dynamics
+CFG
+Context-Free Grammar
+CFG
+Control Flow Graph
+CG
+Computer Graphics
+CGA
+Color Graphics Array
+CGI
+Common Gateway Interface
+CGI
+Computer-Generated Imagery
+CGT
+Computational Graph Theory
+CHAP
+Challenge-Handshake Authentication Protocol
+CHS
+Cylinder-Head-Sector
+CIDR
+Classless Inter-Domain Routing
+CIFS
+Common Internet Filesystem
+CIM
+Common Information Model
+CIM
+Computationally Independent Model
+CIO
+Chief Information Officer
+CIR
+Committed information rate
+CISC
+Complex Instruction Set Computer
+CJK
+Chinese, Japanese, and Korean
+CJKV
+Chinese, Japanese, Korean, and Vietnamese
+CLI
+Command Line Interface
+CLR
+Common Language Runtime
+CM
+Configuration Management
+CM
+Content Management
+CMDB
+Configuration Management Database
+CMMI
+Capability Maturity Model Integration
+CMOS
+Complementary Metal-Oxide Semiconductor
+CMO
+Current Mode of Operation
+CMS
+Content Management System
+CN
+Canonical Name
+CN
+Common Name
+CNC
+Computer Numerical Control
+CNG
+Cryptographic Next Generation
+CNG
+Cryptography Next Generation
+CNR
+Communications and Networking Riser
+COBOL
+Common Business-Oriented Language
+COM
+Component Object Model or communication
+CORBA
+Common Object Request Broker Architecture
+COTS
+Commercial Off-The-Shelf
+CPA
+Cell Processor Architecture
+CPAN
+Comprehensive Perl Archive Network
+CP/M
+Control Program/Monitor
+CPRI
+Common Public Radio Interface
+CPS
+characters per second
+CPU
+Central Processing Unit
+CR
+Carriage Return
+CRAN
+Comprehensive R Archive Network
+CRC
+Cyclic Redundancy Check
+CRLF
+Carriage Return Line Feeds
+CRM
+Customer Relationship Management
+CRS
+Computer Reservations System
+CRT
+Cathode Ray Tube
+CRUD
+Create, Read, Update and Delete
+CS
+Cable Select
+CS
+Computer Science
+CSE
+Computer Science and Engineering
+CSI
+Common System Interface
+CSM
+Compatibility Support Module
+CSMA/CD
+Carrier sense multiple access with collision detection
+CSP
+Cloud Service Provider
+CSP
+Communicating Sequential Processes
+CSRF
+Cross-Site Request Forgery
+CSS
+Cascading Style Sheets
+CSS
+Content-Scrambling System
+CSS
+Closed Source Software
+CSS
+Cross-Site Scripting
+CSV
+Comma-Separated Values
+CT
+Computerized Tomography
+CTAN
+Comprehensive TeX Archive Network
+CTCP
+Client-To-Client Protocol
+CTI
+Computer Telephony Integration
+CTFE
+Compile Time Function Execution
+CTL
+Computational Tree Logic
+CTM
+Close To Metal
+CTS
+Clear To Send
+CTSS
+Compatible Time-Sharing System
+CUA
+Common User Access
+CVS
+Concurrent Versioning System

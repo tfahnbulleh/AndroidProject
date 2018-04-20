@@ -1,0 +1,72 @@
+﻿    J2EE
+Java 2 Enterprise Edition
+J2ME
+Java 2 Micro Edition
+J2SE
+Java 2 Standard Edition
+JAXB
+Java Architecture for XML Binding
+JAX
+RPC-Java XML for Remote Procedure Calls
+JAXP
+Java API for XML Processing
+JBOD
+Just a Bunch of Disks
+JCE
+ Java Cryptography Extension
+JCL
+Job Control Language
+JCP
+Java Community Process
+JDBC
+Java Database Connectivity
+JDK
+Java Development Kit
+JEE
+Java Enterprise Edition
+JES
+Job Entry Subsystem
+JDS
+Java Desktop System
+JFC
+Java Foundation Classes
+JFET
+Junction Field-Effect Transistor
+JFS
+IBM Journaling File System
+JINI
+Jini Is Not Initials
+JIT
+Just-In-Time
+JME
+Java Micro Edition
+JMX
+Java Management Extensions
+JMS
+Java Message Service
+JNDI
+Java Naming and Directory Interface
+JNI
+Java Native Interface
+JNZ
+Jump non-zero
+JPEG
+Joint Photographic Experts Group
+JRE
+Java Runtime Environment
+JS
+JavaScript
+JSE
+Java Standard Edition
+JSON
+JavaScript Object Notation
+JSP
+Jackson Structured Programming
+JSP
+JavaServer Pages
+JTAG
+Joint Test Action Group
+JUG
+Java Users Group
+JVM
+Java Virtual Machine

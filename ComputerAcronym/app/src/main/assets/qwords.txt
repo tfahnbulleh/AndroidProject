@@ -1,0 +1,18 @@
+QDR
+Quad Data Rate
+QA
+Quality Assurance
+QFP
+Quad Flat Package
+QoS
+Quality of Service
+QOTD
+Quote of the Day
+Qt
+Quasar Toolkit
+QTAM
+Queued Teleprocessing Access Method
+QSOP
+Quarter Small Outline Package
+qWave
+Quality Windows Audio/Video Experience

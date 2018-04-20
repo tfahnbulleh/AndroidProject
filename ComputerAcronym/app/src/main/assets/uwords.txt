@@ -1,0 +1,76 @@
+﻿UAAG
+User Agent Accessibility Guidelines
+UAC
+User Account Control
+UART
+Universal Asynchronous Receiver/Transmitter
+UAT
+User Acceptance Testing
+UCS
+Universal Character Set
+UDDI
+Universal Description, Discovery, and Integration
+UDMA
+Ultra DMA
+UDP
+User Datagram Protocol
+UEFI
+Unified Extensible Firmware Interface
+UHF
+Ultra High Frequency
+UI
+User Interface
+UL
+Upload
+ULA
+Uncommitted Logic Array
+UMA
+Upper Memory Area
+UMB
+Upper Memory Block
+UML
+Unified Modeling Language
+UML
+User-Mode Linux
+UMPC
+Ultra-Mobile Personal Computer
+UMTS
+Universal Mobile Telecommunications System
+UNC
+Universal Naming Convention
+UNIVAC
+Universal Automatic Computer (By MKS)
+UPS
+Uninterruptible Power Supply
+URI
+Uniform Resource Identifier
+URL
+Uniform Resource Locator
+URN
+Uniform Resource Name
+USB
+Universal Serial Bus
+usr
+user
+USR
+U.S. Robotics
+UTC
+Coordinated Universal Time
+UTF
+Unicode Transformation Format
+UTP
+Unshielded Twisted Pair
+UTRAN
+Universal Terrestrial Radio Access Network
+UUCP
+Unix to Unix Copy
+UUID
+Universally Unique Identifier
+UUN
+Universal User Name
+UVC
+Universal Virtual Computer
+UWP
+Universal Windows Platform
+UX
+User Experience

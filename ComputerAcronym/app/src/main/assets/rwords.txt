@@ -1,0 +1,140 @@
+RACF
+Resource Access Control Facility
+RAD
+Rapid Application Development
+RADIUS
+Remote Authentication Dial In User Service
+RAID
+Redundant Array of Independent Disks
+RAII
+Resource Acquisition Is Initialization
+RAIT
+Redundant Array of Inexpensive Tapes
+RAM
+Random Access Memory
+RARP
+Reverse Address Resolution Protocol
+RAS
+Reliability, Availability and Serviceability
+RAS
+Remote access service
+RC
+Region Code
+RC
+Release Candidate
+RC
+Run Commands
+RCS
+Revision Control System
+RD
+Remote Desktop
+rd
+remove directory
+RDBMS
+Relational Database Management System
+RDC
+Remote Desktop Connection
+RDF
+Resource Description Framework
+RDM
+Relational Data Model
+RDOS
+Real-time Disk Operating System
+RDP
+ Remote Desktop Protocol
+RDS
+Remote Data Services
+REFAL
+Recursive Functions Algorithmic Language
+REST
+Representational State Transfer
+regex
+Regular Expression
+regexp
+Regular Expression
+RF
+Radio Frequency
+RFC
+Request For Comments
+RFI
+Radio Frequency Interference
+RFID
+Radio Frequency Identification
+RGB
+Red, Green, Blue
+RGBA
+Red, Green, Blue, Alpha
+RHL
+Red Hat Linux
+RHEL
+Red Hat Enterprise Linux
+RIA
+Rich Internet Application
+RIAA
+Recording Industry Association of America
+RIP
+Raster Image Processor
+RIP
+Routing Information Protocol
+RIR
+Regional Internet registry
+RISC
+Reduced Instruction Set Computer
+RISC OS
+Reduced Instruction Set Computer Operating System
+RJE
+Remote Job Entry
+RLE
+Run-Length Encoding
+RLL
+Run-Length Limited
+rmdir
+remove directory
+RMI
+Remote Method Invocation
+RMS
+Richard Matthew Stallman
+ROM
+Read Only Memory
+ROMB
+Read-Out Motherboard
+ROM
+DOS-Read Only Memory - Disk Operating System
+RPC
+Remote Procedure Call
+RPG
+Report Program Generator
+RPM
+RPM Package Manager
+RRAS
+Routing and Remote Access Service
+RSA
+Rivest Shamir Adleman
+RSI
+Repetitive Strain Injury
+RSS
+Radio Service Software
+RSS
+Rich Site Summary, RDF Site Summary, or Really Simple Syndication
+RTAI
+Real-Time Application Interface
+RTC
+Real-Time Clock
+RTE
+Real-Time Enterprise
+RTEMS
+Real-Time Executive for Multiprocessor Systems
+RTL
+Right-to-Left
+RTOS
+Real-Time Operating System
+RTP
+Real-time Transport Protocol
+RTS
+Ready To Send
+RTSP
+Real Time Streaming Protocol
+RTTI
+Run-time Type Information
+RWD
+Responsive Web Design

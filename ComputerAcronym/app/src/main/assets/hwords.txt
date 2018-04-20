@@ -1,0 +1,74 @@
+HA
+High Availability
+HAL
+Hardware Abstraction Layer
+HASP
+Houston Automatic Spooling Priority
+HBA
+Host Bus Adapter
+HCI
+Human Computer Interaction
+HD
+High Density
+HDD
+Hard Disk Drive
+HCL
+Hardware Compatibility List
+HD DVD
+High Definition DVD
+HDL
+Hardware Description Language
+HDMI
+High-Definition Multimedia Interface
+HECI
+Host Embedded Controller Interface
+HF
+High Frequency
+HFS
+Hierarchical File System
+HHD
+Hybrid Hard Drive
+HID
+Human Interface Device
+HIG
+Human Interface Guidelines
+HIRD
+Hurd of Interfaces Representing Depth
+HLASM
+High Level ASseMbler
+HLS
+HTTP Live Streaming
+HMA
+High Memory Area
+HP
+Hewlett-Packard
+HPC
+High-Performance Computing
+HPFS
+High Performance File System
+HSDPA
+High-Speed Downlink Packet Access
+HTC
+High-Throughput Computing
+HSM
+Hierarchical Storage Management
+HT
+Hyper Threading
+HTM
+Hierarchical Temporal Memory
+HTML
+Hypertext Markup Language
+HTTP
+Hypertext Transfer Protocol
+HTTPd
+Hypertext Transport Protocol Daemon
+HTTPS
+HTTP Secure
+HTX
+HyperTransport eXpansion
+HURD
+Hird of Unix-Replacing Daemons
+HVD
+Holographic Versatile Disc
+Hz
+Hertz

@@ -1,0 +1,156 @@
+P2P
+Peer-To-Peer
+PaaS
+Platform as a Service
+PAN
+Personal Area Network
+PAP
+Password Authentication Protocol
+PARC
+Palo Alto Research Center
+PATA
+Parallel ATA
+PBS
+Portable Batch System
+PC
+Personal Computer
+PCB
+Printed Circuit Board
+PCB
+Process Control Block
+PC DOS
+Personal Computer Disc Operating System
+PCI
+Peripheral Component Interconnect
+PCIe
+PCI Express
+PCL
+Printer Command Language
+PCMCIA
+Personal Computer Memory Card International Association
+PCM
+Pulse-Code Modulation
+PCRE
+Perl Compatible Regular Expressions
+PD
+Public Domain
+PDA
+Personal Digital Assistant
+PDF
+Portable Document Format
+PDH
+Plesiochronous Digital Hierarchy
+PDP
+Programmed Data Processor
+PE
+Physical Extents
+PERL
+Practical Extraction and Reporting Language
+PFA
+Please Find Attachment
+PG
+Peripheral Gateway
+PGA
+Pin Grid Array
+PGA
+Programmable Gate Array
+PGO
+Profile-Guided Optimization
+PGP
+Pretty Good Privacy
+PHP
+Hypertext Preprocessor
+PIC
+Peripheral Interface Controller
+PIC
+Programmable Interrupt Controller
+PID
+Proportional-Integral-Derivative
+PID
+Process ID
+PIM
+Personal Information Manager
+PINE
+Program for Internet News and Email
+PIM
+Platform Independent Model
+PIO
+Programmed Input/Output
+PKCS
+Public Key Cryptography Standards
+PKI
+Public Key Infrastructure
+PLC
+Power Line Communication
+PLC
+Programmable Logic Controller
+PLD
+Programmable Logic Device
+PL/I
+Programming Language One
+PL/M
+Programming Language for Microcomputers
+PL/P
+Programming Language for Prime
+PLT
+Power Line Telecommunications
+PMM
+POST Memory Manager
+PNG
+Portable Network Graphics
+PnP
+Plug-and-Play
+PNRP
+Peer Name Resolution Protocol
+PoE
+Power over Ethernet
+POID
+Persistent Object Identifier
+POJO
+Plain Old Java Object
+POP
+Point of Presence
+POP3
+Post Office Protocol v3
+POSIX
+Portable Operating System Interface, formerly IEEE-IX
+POST
+Power-On Self Test
+PPC
+PowerPC
+PPI
+Pixels Per Inch
+PPP
+Point-to-Point Protocol
+PPPoA
+PPP over ATM
+PPPoE
+PPP over Ethernet
+PPTP
+Point-to-Point Tunneling Protocol
+PR
+Pull Request
+PS
+PostScript
+PS/2
+Personal System/2
+PSA
+Professional Services Automation
+PSM
+Platform Specific Model
+PSU
+Power Supply Unit
+PSVI
+Post-Schema-Validation Infoset
+PTS
+DOS-PhysTechSoft - Disk Operating System
+PV
+Physical Volume
+PVG
+Physical Volume Group
+PVR
+Personal Video Recorder
+PXE
+Preboot Execution Environment
+PXI
+PCI eXtensions for Instrumentation

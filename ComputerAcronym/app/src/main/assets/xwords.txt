@@ -1,0 +1,54 @@
+XAG
+XML Accessibility Guidelines
+XAML
+eXtensible Application Markup Language
+XDM
+X Window Display Manager
+XDMCP
+X Display Manager Control Protocol
+XCBL
+XML Common Business Library
+XHTML
+eXtensible Hypertext Markup Language
+XILP
+X Interactive ListProc
+XML
+eXtensible Markup Language
+XMMS
+X Multimedia System
+XMPP
+eXtensible Messaging and Presence Protocol
+XMS
+Extended Memory Specification
+XNS
+Xerox Network Systems
+XP
+Cross-Platform
+XP
+Extreme Programming
+XPCOM
+Cross Platform Component Object Model
+XPI
+XPInstall
+XPIDL
+Cross-Platform IDL
+XPS
+ XML Paper Specification
+XSD
+XML Schema Definition
+XSL
+eXtensible Stylesheet Language
+XSL
+FO-eXtensible Stylesheet Language Formatting Objects
+XSLT
+eXtensible Stylesheet Language Transformations
+XSS
+Cross-Site Scripting
+XTF
+eXtensible Tag Framework
+XTF
+eXtended Triton Format
+XUL
+XML User Interface Language
+XVGA
+Extended Video Graphics Adapter

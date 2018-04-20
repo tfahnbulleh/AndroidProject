@@ -1,0 +1,242 @@
+SaaS
+Software as a Service
+SAM
+ Security Account Manager
+SAN
+Storage Area Network
+SAS
+Serial attached SCSI
+SATA
+Serial ATA
+SAX
+Simple API for XML
+SBOD
+Spinning Beachball of Death
+SBP
+2-Serial Bus Protocol 2
+sbin
+superuser binary
+sbs
+Small Business Server
+SBU
+Standard Build Unit
+SCADA
+Supervisory Control And Data Acquisition
+SCID
+Source Code in Database
+SCM
+Software Configuration Management
+SCM
+Source Code Management
+SCP
+Secure Copy
+SCPC
+Single Channel Per Carrier
+SCPI
+Standard Commands for Programmable Instrumentation
+SCSA
+Secure Content Storage Association
+SCSI
+Small Computer System Interface
+SCTP
+Stream Control Transmission Protocol
+SD
+Secure Digital
+SDDL
+Security Descriptor Definition Language
+SDH
+Synchronous Digital Hierarchy
+SDI
+Single Document Interface
+SEC
+Single Edge Contact
+SDIO
+Secure Digital Input Output
+SDK
+Software Development Kit
+SDL
+Simple DirectMedia Layer
+SDN
+Service Delivery Network
+SDP
+Session Description Protocol
+SDR
+Software-Defined Radio
+SDRAM
+Synchronous Dynamic Random Access Memory
+SDSL
+Symmetric DSL
+SE
+Single Ended
+SEI
+Software Engineering Institute
+SEO
+Search Engine Optimization
+SFTP
+Secure FTP
+SFTP
+Simple File Transfer Protocol
+SFTP
+SSH File Transfer Protocol
+SGI
+Silicon Graphics, Incorporated
+SGML
+Standard Generalized Markup Language
+SGR
+Select Graphic Rendition
+SHA
+Secure Hash Algorithm
+SHDSL
+Single-pair High-speed Digital Subscriber Line
+SIGCAT
+Special Interest Group on CD-ROM Applications and Technology
+SIGGRAPH
+Special Interest Group on Graphics
+SIMD
+Single Instruction, Multiple Data
+SIMM
+Single Inline Memory Module
+SIP
+Session Initiation Protocol
+SIP
+Supplementary Ideographic Plane
+SISD
+Single Instruction, Single Data
+SISO
+Single-Input and Single-Output
+SLED
+SUSE Linux Enterprise Desktop
+SLES
+SUSE Linux Enterprise Server
+SLI
+Scalable Link Interface
+SLIP
+Serial Line Internet Protocol
+SLM
+Service Level Management
+SLOC
+Source Lines of Code
+SME
+Subject Matter Expert
+SMF
+Single-Mode (optical) Fiber
+SPM
+Software project management
+SPMD
+Single Program, Multiple Data
+SMA
+SubMiniature version A
+SMB
+Server Message Block
+SMBIOS
+System Management BIOS
+SMIL
+Synchronized Multimedia Integration Language
+S/MIME
+Secure/Multipurpose Internet Mail Extensions
+SMP
+Supplementary Multilingual Plane
+SMP
+Symmetric Multi-Processing
+SMPS
+Switch Mode Power Supply
+SMS
+Short Message Service
+SMS
+System Management Server
+SMT
+Simultaneous Multithreading
+SMTP
+Simple Mail Transfer Protocol
+SNA
+Systems Network Architecture
+SNMP
+Simple Network Management Protocol
+SNTP
+Simple Network Time Protocol
+SOA
+Service-Oriented Architecture
+SOAP
+Simple Object Access Protocol
+SOAP
+Symbolic Optimal Assembly Program
+SOPA
+Stop Online Piracy Act
+SoC
+System-on-a-Chip
+SO
+DIMM-Small Outline DIMM
+SOE
+Standard Operating Environment
+SOHO
+Small Office/Home Office
+SOI
+Silicon On Insulator
+SP
+Service Pack
+SPA
+Single Page Application
+SPF
+Sender Policy Framework
+SPI
+Serial Peripheral Interface
+SPI
+Stateful Packet Inspection
+SPARC
+Scalable Processor Architecture
+SQL
+Structured Query Language
+SRAM
+Static Random Access Memory
+SSA
+Static Single Assignment
+SSD
+Software Specification Document
+SSD
+Solid-State Drive
+SSDP
+Simple Service Discovery Protocol
+SSE
+Streaming SIMD Extensions
+SSH
+Secure Shell
+SSI
+Server Side Includes
+SSI
+Single-System Image
+SSI
+Small-Scale Integration
+SSID
+Service Set Identifier
+SSL
+Secure Socket Layer
+SSO
+Single Sign On
+SSP
+Supplementary Special-purpose Plane
+SSSE
+Supplementary Streaming SIMD Extensions
+SSSP
+Single Source Shortest Path
+SSTP
+Secure Socket Tunneling Protocol
+su
+superuser
+SUS
+Single UNIX Specification
+SUSE
+Software und System-Entwicklung
+SVC
+Scalable Video Coding
+SVG
+Scalable Vector Graphics
+SVGA
+Super Video Graphics Array
+SVD
+Structured VLSI Design
+SWF
+Shock Wave Flash
+SWT
+Standard Widget Toolkit
+Sysop
+System operator

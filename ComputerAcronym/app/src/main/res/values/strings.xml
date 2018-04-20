@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Computer Acronym</string>
+    <string name="prompt_acronym">acronym</string>
+    <string name="prompt_search">Search</string>
+</resources>

@@ -1,0 +1,80 @@
+OASIS
+Organization for the Advancement of Structured Information Standards
+OAT
+Operational Acceptance Testing
+OBSAI
+Open Base Station Architecture Initiative
+ODBC
+Open Database Connectivity
+OEM
+Original Equipment Manufacturer
+OES
+Open Enterprise Server
+OFDM
+Orthogonal Frequency Division Multiplexing
+OFTC
+Open and Free Technology Community
+OID
+Object Identifier
+OLAP
+Online Analytical Processing
+OLE
+Object Linking and Embedding
+OLED
+Organic Light Emitting Diode
+OLPC
+One Laptop per Child
+OLTP
+Online Transaction Processing
+OMF
+Object Module Format
+OMG
+Object Management Group
+OMR
+Optical Mark Reader
+OO
+Object-Oriented
+OO
+OpenOffice
+OOE
+Out-of-Order Execution
+OOM
+Out Of Memory
+OOo
+OpenOffice.org
+OoOE
+Out-of-Order Execution
+OOP
+Object-Oriented Programming
+OOTB
+Out of the box
+OPML
+Outline Processor Markup Language
+ORB
+Object Request Broker
+ORM
+Object-Relational Mapping
+OS
+Open Source
+OS
+Operating System
+OSCON
+O'Reilly Open Source CONvention
+OSDN
+Open Source Development Network
+OSI
+Open Source Initiative
+OSI
+Open Systems Interconnection
+OSPF
+Open Shortest Path First
+OSS
+Open Sound System
+OSS
+Open-Source Software
+OSS
+Operations Support System
+OSTG
+Open Source Technology Group
+OUI
+Organisationally Unique Identifier

@@ -1,0 +1,110 @@
+B2B
+Business-to-Business
+B2C
+Business-to-Consumer
+B2E
+Business-to-Employee
+BAL
+Basic Assembly Language
+BAM
+Block Availability Map
+Bash
+Bourne-again shell
+BASIC
+Beginner's All-Purpose Symbolic Instruction Code
+BBP
+Baseband Processor
+BBS
+Bulletin Board System
+BCD
+Binary Coded Decimal
+BCD
+Boot Configuration Data
+BCNF
+Boyce�Codd normal form
+BEEP
+Blocks Extensible Exchange Protocol
+BER
+Bit Error Rate
+BFD
+Bidirectional Forwarding Detection
+BFD
+Binary File Descriptor
+BFS
+Breadth-First Search
+BFT
+Byzantine Fault Tolerant
+BGP
+Border Gateway Protocol
+BI
+Business Intelligence
+BiDi
+Bi-Directional
+bin
+binary
+BINAC
+Binary Automatic Computer
+BIND
+Berkeley Internet Name Domain
+BIOS
+Basic Input Output System
+BJT
+Bipolar Junction Transistor
+bit
+binary digit
+Blob
+Binary large object
+Blog
+Web Log
+BMP
+Basic Multilingual Plane
+BNC
+Bayonet Neill-Concelman
+BOINC
+Berkeley Open Infrastructure for Network Computing
+BOM
+Byte Order Mark
+BOOTP
+Bootstrap Protocol
+BPDU
+Bridge Protocol Data Unit
+BPEL
+Business Process Execution Language
+BPL
+Broadband over Power Lines
+BPM
+Business Process Management
+BPM
+Business Process Modeling
+bps
+bits per second
+BRM
+Business Reference Model
+BRMS
+Business Rule Management System
+BRR
+Business Readiness Rating
+BRS
+Broadband Radio Service
+BSA
+Business Software Alliance
+BSB
+Backside Bus
+BSD
+Berkeley Software Distribution
+BSoD
+Blue Screen of Death
+BSS
+Block Started by Symbol
+BT
+BitTorrent
+BT
+Bluetooth
+B TAM
+Basic Telecommunications Access Method
+BW
+Bandwidth
+BYOD
+Bring Your Own Device
+Byte
+By eight (group of 8 bits)

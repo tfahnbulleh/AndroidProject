@@ -1,0 +1,78 @@
+TAO
+Track-At-Once
+TAPI
+Telephony Application Programming Interface
+TASM
+Turbo ASseMbler
+TB
+TeraByte
+Tcl
+Tool Command Language
+TCP
+Transmission Control Protocol
+TCP/IP
+Transmission Control Protocol/Internet Protocol
+TCU
+Telecommunication Control Unit
+TDMA
+Time-Division Multiple Access
+TFT
+Thin-Film Transistor
+tif 
+ image(Tagged Image File Format)
+TFTP
+Trivial File Transfer Protocol
+TI
+Texas Instruments
+TLA
+Three-Letter Acronym
+TLD
+Top-Level Domain
+TLS
+Thread-Local Storage
+TLS
+Transport Layer Security
+TLV
+Type-length-value
+tmp
+temporary
+TNC
+Terminal Node Controller
+TNC
+Threaded Neill-Concelman connector
+TPF
+Transaction Processing Facility
+TPM
+Trusted Platform Module
+TROFF
+Trace Off
+TRON
+Trace On
+TRON
+The Real-time Operating system Nucleus
+TRSDOS
+Tandy Radio Shack - Disk Operating System
+TSO
+Time Sharing Option
+TSP
+Traveling Salesman Problem
+TSR
+Terminate and Stay Resident
+TTA
+True Tap Audio
+TTF
+TrueType Font
+TTL
+Transistor-Transistor Logic
+TTL
+Time To Live
+TTS
+Text-to-Speech
+TTY
+Teletype
+TUCOWS
+The Ultimate Collection of Winsock Software
+TUG
+TeX Users Group
+TWAIN
+Technology Without An Interesting Name

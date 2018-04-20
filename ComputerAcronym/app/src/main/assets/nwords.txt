@@ -1,0 +1,106 @@
+NACK
+Negative ACKnowledgement
+NAK
+Negative AcKnowledge Character
+NaN
+Not a Number
+NAP
+Network Access Protection
+NAS
+Network-Attached Storage
+NASM
+Netwide ASseMbler
+NAT
+Network Address Translation
+NCP
+NetWare Core Protocol
+NCQ
+Native Command Queuing
+NCSA
+National Center for Supercomputing Applications
+NDIS
+Network Driver Interface Specification
+NDPS
+Novell Distributed Print Services
+NDS
+Novell Directory Services
+NEP
+Network Equipment Provider
+NetBIOS
+Network Basic Input/Output System
+NetBT
+NetBIOS over TCP/IP
+NEXT
+Near-End CrossTalk
+NFA
+Nondeterministic Finite Automaton
+NFC
+Near field communication
+NFS
+Network File System
+NGL
+aNGeL
+NGSCB
+Next-Generation Secure Computing Base
+NI
+National Instruments
+NIC
+Network Interface Controller
+NIM
+No Internal Message
+NIO
+New I/O
+NIST
+National Institute of Standards and Technology
+NLP
+Natural Language Processing
+NLS
+Native Language Support
+NMI
+Non-Maskable Interrupt
+NNTP
+Network News Transfer Protocol
+NOC
+Network Operations Center
+NOP
+No OPeration
+NOS
+Network Operating System
+NP
+Nondeterministic Polynomial time
+NPL
+Netscape Public License
+NPTL
+Native POSIX Thread Library
+NPU
+Network Processing Unit
+NS
+Netscape
+NSA
+Network Security Appliance
+NSI
+Network Service Interface
+NSPR
+Netscape Portable Runtime
+NSS
+Novell Storage Service
+NSS
+Network Security Services
+NSS
+Name Service Switch
+NT
+New Technology
+NTFS
+NT Filesystem
+NTLM
+NT Lan Manager
+NTP
+Network Time Protocol
+NUMA
+Non-Uniform Memory Access
+NURBS
+Non-Uniform Rational B-Spline
+NVR
+Network Video Recorder
+NVRAM
+Non-Volatile Random Access Memory

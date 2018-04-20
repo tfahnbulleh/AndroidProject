@@ -1,0 +1,86 @@
+﻿    W3C
+World Wide Web Consortium
+WWDC
+Apple World Wide Developer Conference
+WAFS
+Wide Area File Services
+WAI
+Web Accessibility Initiative
+WAIS
+Wide Area Information Server
+WAN
+Wide Area Network
+WAP
+Wireless Access Point
+WAP
+Wireless Application Protocol
+WASM
+Watcom ASseMbler
+WBEM
+Web-Based Enterprise Management
+WCAG
+Web Content Accessibility Guidelines
+WCF
+Windows Communication Foundation
+WDM
+Wavelength-Division Multiplexing
+WebDAV
+WWW Distributed Authoring and Versioning
+WEP
+Wired Equivalent Privacy
+WFI
+Wait For Interrupt
+WiMAX
+Worldwide Interoperability for Microwave Access
+WinFS
+Windows Future Storage
+WinRT
+Windows RunTime
+WINS
+Windows Internet Name Service
+WLAN
+Wireless Local Area Network
+WMA
+Windows Media Audio
+WMI
+ Windows Management Instrumentation
+WMV
+Windows Media Video
+WNS
+Windows Push Notification Service
+WOL
+Wake-on-LAN
+WOR
+Wake-on-Ring
+WORA
+Write once, run anywhere
+WORE
+Write once, run everywhere
+WPA
+Wi-Fi Protected Access
+WPAD
+Web Proxy Autodiscovery Protocol
+WPAN
+Wireless Personal Area Network
+WPF
+Windows Presentation Foundation
+WS
+D-Web Services-Discovery
+WSDL
+Web Services Description Language
+WSFL
+Web Services Flow Language
+WUSB
+Wireless Universal Serial Bus
+WWAN
+Wireless Wide Area Network
+WWID
+World Wide Identifier
+WWN
+World Wide Name
+WWW
+World Wide Web
+WYSIWYG
+What You See Is What You Get
+WZC
+Wireless Zero Configuration

@@ -1,0 +1,196 @@
+MAC
+Mandatory Access Control
+MAC
+Media Access Control
+MAN
+Metropolitan Area Network
+MANET
+Mobile Ad-Hoc Network
+MAPI
+Messaging Application Programming Interface
+Mb
+Megabit
+MB
+Megabyte
+MBCS
+Multi Byte Character Set
+MBD
+Model-Based Design
+MBR
+Master Boot Record
+MCA
+Micro Channel Architecture
+MCA
+Microsoft Certified Architect
+MCAD
+Microsoft Certified Application Developer
+MCAS
+Microsoft Certified Application Specialist
+MCDBA
+Microsoft Certified DataBase Administrator
+MCDST
+Microsoft Certified Desktop Support Technician
+MCITP
+Microsoft Certified Information Technology Professional
+MCM
+Microsoft Certified Master
+MCP
+Microsoft Certified Professional
+MCPC
+Multiple Channels Per Carrier
+MCPD
+Microsoft Certified Professional Developer
+MCSA
+Microsoft Certified Systems Administrator
+MCSD
+Microsoft Certified Solution Developer
+MCSE
+Microsoft Certified Systems Engineer
+MCT
+Microsoft Certified Trainer
+MCTS
+Microsoft Certified Technology Specialist
+MDA
+Mail Delivery Agent
+MDA
+Model-Driven Architecture
+MDA
+Monochrome Display Adapter
+MDD/MDSD
+Model-Driven (Software) Development
+MDF
+Main Distribution Frame
+MDI
+Multiple Document Interface
+ME
+Microsoft Edge
+ME
+[Windows] Millennium Edition
+MF
+Medium Frequency
+MFC
+Microsoft Foundation Classes
+MFM
+Modified Frequency Modulation
+MGCP
+Media Gateway Control Protocol
+MHz
+Megahertz
+MIB
+Management Information Base
+MICR
+Magnetic Ink Character Recognition
+MIDI
+Musical Instrument Digital Interface
+MIMD
+Multiple Instruction, Multiple Data
+MIMO
+Multiple-Input Multiple-Output
+MINIX
+MIni-uNIX
+MIPS
+Million Instructions Per Second
+MIPS
+Microprocessor without Interlocked Pipeline Stages
+MIS
+Management Information Systems
+MISD
+Multiple Instruction, Single Data
+MIT
+Massachusetts Institute of Technology
+MIME
+Multipurpose Internet Mail Extensions
+MMDS
+Multichannel Multipoint Distribution Service
+MMDS
+Mortality Medical Data System
+MMI
+Man Machine Interface.
+MMIO
+Memory-Mapped I/O
+MMORPG
+Massively Multiplayer Online Role-Playing Game
+MMC
+ Microsoft Management Console
+MMF
+Multi-Mode (optical) Fiber
+MMU
+Memory Management Unit
+MMX
+Multi-Media Extensions
+MNG
+Multiple-image Network Graphics
+MoBo
+Motherboard
+MOM
+Message-Oriented Middleware
+MOO
+MUD Object Oriented
+MOP
+Meta-Object Protocol
+MOS
+Microsoft Office Specialist
+MOSFET
+Metal-Oxide Semiconductor Field Effect Transistor
+MOTD
+Message Of The Day
+MOUS
+Microsoft Office User Specialist
+MOV
+Apple QuickTime Multimedia File
+MPAA
+Motion Picture Association of America
+MPEG
+Motion Pictures Experts Group
+MPL
+Mozilla Public License
+MPLS
+Multiprotocol Label Switching
+MPU
+Microprocessor Unit
+MS
+Memory Stick
+MS
+Microsoft
+MSB
+Most Significant Bit
+MSN
+Microsoft Network
+MS
+DOS-Microsoft DOS
+MT
+Machine Translation
+MTA
+Mail Transfer Agent
+MTA
+Microsoft Technology Associate
+MTBF
+Mean Time Between Failures
+MTU
+Maximum Transmission Unit
+MSA
+Mail Submission Agent
+MSDN
+Microsoft Developer Network
+MSI
+Medium-Scale Integration
+MSI
+Message Signaled Interrupt
+MSI
+Microsoft Installer
+MUA
+Mail User Agent
+MUD
+Multi-User Dungeon
+MVC
+Model-View-Controller
+MVP
+Most Valuable Professional
+MVS
+Multiple Virtual Storage
+MWC
+Mobile World Congress
+MX
+Mail exchange
+MXF
+Material Exchange Format

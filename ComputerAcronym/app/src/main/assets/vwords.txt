@@ -1,0 +1,76 @@
+var
+variable
+VAX
+Virtual Address eXtension
+VCPI
+Virtual Control Program Interface
+VR
+Virtual Reality
+VRML
+Virtual Reality Modeling Language
+VB
+Visual Basic
+VBA
+Visual Basic for Applications
+VBS
+Visual Basic Script
+VDI
+Virtual Desktop Infrastructure
+VDM
+ Virtual DOS machine
+VDSL
+Very High Bitrate Digital Subscriber Line
+VESA
+Video Electronics Standards Association
+VFAT
+Virtual FAT
+VHD 
+ Virtual Hard Disk
+VFS
+Virtual File System
+VG
+Volume Group
+VGA
+Video Graphics Array
+VHF
+Very High Frequency
+VLAN
+Virtual Local Area Network
+VLSM
+Variable Length Subnet Mask
+VLB
+Vesa Local Bus
+VLF
+Very Low Frequency
+VLIW
+Very Long Instruction Word
+VLSI
+Very-Large-Scale Integration
+VM
+Virtual Machine
+VM
+Virtual Memory
+VMM
+Virtual Machine Monitor
+VNC
+Virtual Network Computing
+VOD
+Video On Demand
+VoIP
+Voice over Internet Protocol
+VPN
+Virtual Private Network
+VPU
+Visual Processing Unit
+VSAM
+Virtual Storage Access Method
+VSAT
+Very Small Aperture Terminal
+VT
+Video Terminal?
+VTL
+ Virtual Tape Library
+VTAM
+Virtual Telecommunications Access Method
+VRAM
+Video Random Access Memory

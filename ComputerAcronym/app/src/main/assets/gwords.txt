@@ -1,0 +1,78 @@
+G11N
+Globalization
+Gas
+GNU Assembler
+Gb
+Gigabit
+GB
+Gigabyte
+GCC
+GNU Compiler Collection
+GCJ
+GNU Compiler for Java
+GCR
+Group Coded Recording
+GDB
+GNU Debugger
+GDI
+Graphics Device Interface
+GFDL
+GNU Free Documentation License
+GIF
+Graphics Interchange Format
+GIGO
+Garbage In, Garbage Out
+GIMP
+GNU Image Manipulation Program
+GIMPS
+Great Internet Mersenne Prime Search
+GIS
+Geographic Information System
+GLUT
+OpenGL Utility Toolkit
+GML
+Geography Markup Language
+GNOME
+GNU Network Object Model Environment
+GUI
+Graphical User Interfase
+GNU
+GNU's Not Unix
+GOMS
+Goals, Operators, Methods, and Selection rules
+GPASM
+GNU PIC ASseMbler
+GPFS
+General Parallel File System
+GPG
+GNU Privacy Guard
+GPGPU
+General-Purpose Computing on Graphics Processing Units
+GPIB
+General-Purpose Instrumentation Bus
+GPL
+General Public License
+GPL
+General-Purpose Language
+GPRS
+General Packet Radio Service
+GPT
+GUID Partition Table
+GPU
+Graphics Processing Unit
+GRUB
+Grand Unified Boot-Loader
+GERAN
+GSM EDGE Radio Access Network
+GSM
+Global System for Mobile Communications
+GTK+
+GIMP Toolkit
+GUI
+Graphical User Interface
+GUID
+Globally Unique IDentifier
+GWT
+Google Web Toolkit
+GYR
+IT Networking

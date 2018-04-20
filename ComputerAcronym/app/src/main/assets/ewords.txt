@@ -1,0 +1,112 @@
+EAI
+Enterprise Application Integration
+EAP
+Extensible Authentication Protocol
+EAS
+Exchange ActiveSync
+EBCDIC
+Extended Binary Coded Decimal Interchange Code
+EBML
+Extensible Binary Meta Language
+ECC
+Elliptic Curve Cryptography
+ECMA
+European Computer Manufacturers Association
+ECN
+Explicit Congestion Notification
+ECOS
+Embedded Configurable Operating System
+ECRS
+Expense and Cost Recovery System
+EDA
+Electronic Design Automation
+EDGE
+ Enhanced Data rates for GSM Evolution
+EDI
+Electronic Data Interchange
+EDO
+Extended Data Out
+EDSAC
+Electronic Delay Storage Automatic Calculator
+EDVAC
+Electronic Discrete Variable Automatic Computer
+EEPROM
+Electronically Erasable Programmable Read-Only Memory
+EFF
+Electronic Frontier Foundation
+EFI
+Extensible Firmware Interface
+EFM
+Eight-to-Fourteen Modulation
+EFM
+Ethernet in the First Mile
+EFS
+Encrypting File System
+EGA
+Enhanced Graphics Array
+E
+mail-Electronic mail
+EGP
+Exterior Gateway Protocol
+eID
+electronic ID card
+EIDE
+Enhanced IDE
+EIGRP
+Enhanced Interior Gateway Routing Protocol
+EISA
+Extended Industry Standard Architecture
+ELF
+Extremely Low Frequency
+ELF
+Executable and Linkable Format
+ELM
+ELectronic Mail
+EMACS
+Editor MACroS
+EMS
+Expanded Memory Specification
+ENIAC
+Electronic Numerical Integrator And Computer
+EOD
+End of Day
+EOF
+End of File
+EOL
+End of Line
+EOM
+End Of Message
+EOS
+End OF Support
+EPIC
+Explicitly Parallel Instruction Computing
+EPROM
+Erasable Programmable Read-Only Memory
+ERD
+Entity-Relationship Diagram
+ERM
+Entity-Relationship Model
+ERP
+Enterprise Resource Planning
+eSATA
+external SATA
+ESB
+Enterprise service bus
+ESCON
+Enterprise Systems Connection
+ESD
+Electrostatic Discharge
+ESR
+Eric Steven Raymond
+ETL
+Extract, Transform, Load
+ETW
+Event Tracing for Windows
+EUC
+Extended Unix Code
+EULA
+End User License Agreement
+EWMH
+Extended Window Manager Hints
+EXT
+EXTended file system

@@ -1,0 +1,20 @@
+ZCAV
+Zone Constant Angular Velocity
+ZCS
+Zero Code Suppression
+ZIF
+Zero Insertion Force
+ZIFS
+Zero Insertion Force Socket
+ZIP
+ZIP file archive
+ZISC
+Zero Instruction Set Computer
+ZOI
+Zero One Infinity
+ZOPE
+Z Object Publishing Environment
+ZMA
+Zone Multicast Address
+ZPL
+Z-level Programming Language

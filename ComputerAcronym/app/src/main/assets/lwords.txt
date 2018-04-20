@@ -1,0 +1,88 @@
+﻿    L10N
+Localization
+L2TP
+Layer two Tunneling Protocol
+LACP
+Link Aggregation Control Protocol
+LAMP
+Linux Apache MySQL Perl
+LAMP
+Linux Apache MySQL PHP
+LAMP
+Linux Apache MySQL Python
+LAN
+Local Area Network
+LBA
+Logical Block Addressing
+LB
+Load Balancer
+LCD
+Liquid Crystal Display
+LCR
+Least Cost Routing
+LCOS
+Liquid Crystal On Silicon
+LDAP
+Lightweight Directory Access Protocol
+LE
+Logical Extents
+LED
+Light-Emitting Diode
+LF
+Line Feed
+LF
+Low Frequency
+LFS
+Linux From Scratch
+LGPL
+Lesser General Public License
+LIB
+LIBrary
+LIF
+Low Insertion Force
+LIFO
+Last In First Out
+LILO
+Linux Loader
+LISP
+LISt Processing
+LKML
+Linux Kernel Mailing List
+LM
+Lan Manager
+LOC
+Lines of Code
+LPC
+Lars Pensjö C
+LPI
+Linux Professional Institute
+LPT
+ Line Print Terminal
+LRU
+Least Recently Used
+LSB
+Least Significant Bit
+LSB
+Linux Standard Base
+LSI
+Large-Scale Integration
+LTE
+Long Term Evolution
+LTL
+Linear Temporal Logic
+LTR
+Left-to-Right
+LUG
+Linux User Group
+LUN
+Logical Unit Number
+LV
+Logical Volume
+LVD
+Low Voltage Differential
+LVM
+Logical Volume Management
+LZW
+Lempel-Ziv-Welch
+LGA
+Land Grid Array

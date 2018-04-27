@@ -19,7 +19,8 @@ Computer-Aided Quality Assurance
 CASE
 Computer-Aided Software Engineering
 cc
-C Compiler
+C 
+Compiler
 CD
 Compact Disc
 CDE
